@@ -9,9 +9,8 @@ public class HelloController {
     @GetMapping("/")
     public String home() {
 
-        int a,b;
-        mul(a,b);
-        return "I am changing in Sudeep1 branch 1234";
-        
+    
+        return "Spring Boot app is running on dev branch";gggfdgfdfdf
+        dfgfdfg
     }
 }
